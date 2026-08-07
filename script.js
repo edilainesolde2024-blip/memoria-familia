@@ -58,7 +58,7 @@ function criarJogo(){
 
             <div class="frente">
 
-                <img src="imagens/${imagem}">
+                <img src="${imagem}">
 
             </div>
 
